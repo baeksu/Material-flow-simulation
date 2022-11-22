@@ -28,7 +28,8 @@ const render = ()=>{
     0.1,
     1000
   )
-  camera.position.z = 5;
+  camera.position.z = 10;
+  
 
   mesh();
   scene.add(camera);
